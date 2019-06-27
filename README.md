@@ -12,9 +12,9 @@
 - 512kB SPI EEPROM
 ## Header Connectivity
 - 5V - 20V, 3.5A (USB PD)
- - default 5V, 500mA
+  - default 5V, 500mA
 - 3.3V, 1A
- - current capacity is taken from USB PD rail
+  - current capacity is taken from USB PD rail
 - 2x SPI
 - 1x UART (no flow control)
 - 1x I2C
