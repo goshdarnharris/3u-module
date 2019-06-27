@@ -1,0 +1,104 @@
+Export log for : PCB ASCII (PCAD) (3u v0.1-A1).Rep
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle EF39X39TOP1
+AddingPadStyle EF24X24TOP1
+AddingPadStyle EF35X37TOP1
+AddingPadStyle EF35X37TOP2
+AddingPadStyle EF22X39TOP1
+AddingPadStyle EF39X43TOP1
+AddingPadStyle EF65X41TOP1
+AddingPadStyle P:EX31Y31D281
+AddingPadStyle EF18X55TOP1
+AddingPadStyle EF28X82TOP1
+AddingPadStyle EF51X134TOP1
+AddingPadStyle P:EX63Y63D511
+AddingPadStyle P:EX59Y59D511
+AddingPadStyle EF12X57TOP1
+AddingPadStyle P:EX43Y43D281
+AddingPadStyle EF39X28TOP1
+AddingPadStyle EF26X43TOP1
+AddingPadStyle EF50X40TOP1
+AddingPadStyle EF16X31TOP1
+AddingPadStyle P:EX67Y35D241
+AddingPadStyle P:EX94Y35D241
+AddingPadStyle P:EX26Y26D161
+AddingPadStyle EF71X28TOP1
+AddingPadStyle EF118X283TOP1
+AddingPadStyle EF83X73TOP1
+AddingPadStyle EF98X39TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX18Y18D81
+Adding ViaStyle V:EX20Y20D101
+Adding TextStyle (Default)
+Adding TextStyle T:H15W5
+Adding TextStyle T:H60W10
+Adding TextStyle T:H20W5
+Adding TextStyle T:H40W10
+Adding TextStyle T:H562W10
+Adding TextStyle T:H140W10
+Adding PatternDef OSHWA_SHL2_LOGO_1
+Adding PatternDef Test Point Target 1mm_1
+Adding PatternDef 0402_1
+Adding PatternDef SOT23_1
+Adding PatternDef SOT95P280X100-6N_1
+Adding PatternDef 1608[0603]_1
+Adding PatternDef EVQ-P6D/P_1
+Adding PatternDef TSOP65P640X120-8N_1
+Adding PatternDef 0402_2
+Adding PatternDef DF9-15S-1V_1
+Adding PatternDef TSQFP50P900X900X160-48N_1
+Adding PatternDef GRPB052MWCN-RC_1
+Adding PatternDef SC-74_1
+Adding PatternDef SOT23-5_1
+Adding PatternDef MK06A_N_1
+Adding PatternDef 0805_1
+Adding PatternDef SOT65P210X110-6N_1
+Adding PatternDef USB4085-GF-A_1
+Adding PatternDef 0806_1
+Adding PatternDef Murata 2900_1
+Adding PatternDef DO-214AC_1
+Adding PatternDef 1210_1
+Adding CompDef OSHWA_SHL2_LOGO_1
+Adding CompDef Test Point Target 1mm_1
+Adding CompDef 0402_1
+Adding CompDef SOT23_1
+Adding CompDef SOT95P280X100-6N_1
+Adding CompDef 1608[0603]_1
+Adding CompDef EVQ-P6D/P_1
+Adding CompDef TSOP65P640X120-8N_1
+Adding CompDef 0402_2
+Adding CompDef DF9-15S-1V_1
+Adding CompDef TSQFP50P900X900X160-48N_1
+Adding CompDef GRPB052MWCN-RC_1
+Adding CompDef SC-74_1
+Adding CompDef SOT23-5_1
+Adding CompDef MK06A_N_1
+Adding CompDef 0805_1
+Adding CompDef SOT65P210X110-6N_1
+Adding CompDef USB4085-GF-A_1
+Adding CompDef 0806_1
+Adding CompDef Murata 2900_1
+Adding CompDef DO-214AC_1
+Adding CompDef 1210_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Arcs In Polygon have been converted to Line Segments
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog

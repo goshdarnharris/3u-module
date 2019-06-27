@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\gharris\projects\keyboard\pokey\brain\3u.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=nc drill (3u v0.1-a1)-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=nc drill (3u v0.1-a1)-slotholes.txt|DrillLayers=gtl,g1,g2,gbl

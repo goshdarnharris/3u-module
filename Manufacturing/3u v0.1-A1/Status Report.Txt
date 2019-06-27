@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 9:18:33 PM On 6/26/2019
+
+Output: Copy Documentation
+Type  : Copy Files
+From  : Project [3u.PrjPcb]
+   Generated File[stackup.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:18:33 PM On 6/26/2019
