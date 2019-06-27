@@ -258,6 +258,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 3u\Design Rule Check - 3u.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Assembly_Version
 Value=1
