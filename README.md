@@ -18,6 +18,6 @@
 - 2x SPI
 - 1x UART (no flow control)
 - 1x I2C
-- 1x GPIO (SPI/UART interface pins can be reconfigured as GPIO)
+- 1x GPIO (SPI/UART interface pins can be reconfigured for use as up to 10 additional GPIO)
 ## Editing
 3u was designed in Altium Designer 19. If you would like to use these design files with free software, you can use Altium's CircuitMaker or attempt to import the project into KiCAD using https://github.com/thesourcerer8/altium2kicad. 
