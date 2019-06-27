@@ -4,7 +4,7 @@
 
 ## Functionality
 - STM32G431CBT6
-- JTAG debug header with UART tx/rx
+- SWD debug header with UART tx/rx
 - USB 2.0 Type-C
 - USB Power Delivery PHY
 - USB supply current sensing
